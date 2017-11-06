@@ -83,7 +83,7 @@
                 <version>3.2.0</version>
                 <configuration>
                     <instructions>
-                        <Bundle-Description />
+                        <Bundle-Description/>
                         <Export-Package>io.cucumber.cucumberexpressions.*</Export-Package>
                     </instructions>
                 </configuration>
