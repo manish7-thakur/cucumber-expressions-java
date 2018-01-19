@@ -10,6 +10,15 @@
     <description>Cucumber Expressions</description>
     <url>https://github.com/cucumber/cucumber-expressions-java</url>
 
+    <developers>
+        <developer>
+            <id>cucumber</id>
+            <name>Cucumber Developers</name>
+            <email>devs@cucumber.io</email>
+            <organization>Cucumber</organization>
+            <organizationUrl>https://github.com/cucumber</organizationUrl>
+        </developer>
+    </developers>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
